@@ -32,6 +32,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
 
-# Xcpp
+# Xc++
 
 🚨 IMPORTANT: NOT PUBLIC YET!!! 🚨
